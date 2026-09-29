@@ -87,3 +87,5 @@ This project helps explore:
 
 This project demonstrates the use of data analytics tools to explore job market trends and present findings through SQL queries, Python analysis, and a dashboard.
 
+
+Dataset: The original and cleaned Excel datasets are not included in this repository because of their large file sizes. The repository contains the analysis notebook, SQL queries, and analysis results.
